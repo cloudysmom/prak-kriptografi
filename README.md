@@ -1,4 +1,4 @@
-# prak-kriptografi
+# shift-cipher
 Tugas praktikum kriptografi - shift cipher
 
 Screenshot program
